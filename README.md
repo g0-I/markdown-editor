@@ -1,1 +1,1 @@
-# markdown-egitor
+# markdown-editor
